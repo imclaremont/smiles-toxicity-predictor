@@ -16,14 +16,14 @@ pip install -r requirements.txt
 python src/drug_toxicity_prediction.py
 ```
 
-결과는 `data/processed/predict_output_*.csv`에 저장됩니다.
+결과는 `data/processed/predict_output_하동헌.csv`에 저장됩니다.
 
 ## 프로젝트 구조
 ```
-├── data/          # 데이터 파일
-├── models/        # 학습된 모델
-├── src/           # 소스 코드
-├── README.md      # 이 파일
+├── data/            # 데이터 파일
+├── models/          # 학습된 모델
+├── src/             # 소스 코드
+├── README.md        # 이 파일
 ├── requirements.txt # 의존성 패키지
 ```
 
@@ -31,6 +31,3 @@ python src/drug_toxicity_prediction.py
 모델 성능 지표:
 - 정확도: 70%
 - 클래스별 정밀도(Precision), 재현율(Recall), F1 점수 확인 가능
-
-## 라이선스
-MIT 라이선스
