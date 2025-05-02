@@ -4,4 +4,5 @@ rdkit-pypi
 joblib
 imblearn
 xgboost
+lightgbm
 # libomp
