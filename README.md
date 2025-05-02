@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ## 사용 방법
 예측 실행
 ```
-python src/drug_toxicity_prediction.py
+python drug_toxicity_prediction.py
 ```
 
 결과는 `data/processed/predict_output_하동헌.csv`에 저장됩니다.
