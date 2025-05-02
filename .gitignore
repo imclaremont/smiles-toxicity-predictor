@@ -1,0 +1,42 @@
+# macOS 시스템 파일
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python 관련
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 가상환경 (venv, poetry 등)
+env/
+venv/
+.venv/
+poetry.lock
+
+# 모델/출력 파일
+*.sav
+
+# IDE 설정
+.vscode/
+.idea/
+*.code-workspace
+
+# 로그
+*.log
+
+# 환경 변수
+.env
+*.envrc
+
+# 기타
+*.swp
+*.bak
