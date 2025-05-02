@@ -28,5 +28,5 @@ python drug_toxicity_prediction.py
 
 ## 결과
 <strong>[모델 성능 지표]<strong/>
-- 정확도: 70%
+- 리더보드 점수: 0.824
 - 클래스별 정밀도(Precision), 재현율(Recall), F1 점수 확인 가능
