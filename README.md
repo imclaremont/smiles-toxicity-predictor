@@ -29,5 +29,5 @@ python drug_toxicity_prediction.py
 ## 결과
 <strong>[모델 성능 지표]<strong/>
 - 리더보드 점수: 0.824
-- SK C&C + SKALA 1기 289개 중 48등
+- "SK C&C + SKALA 1기" 289개 제출 중 48등
 - 클래스별 정밀도(Precision), 재현율(Recall), F1 점수 확인 가능
